@@ -1,6 +1,8 @@
 RENCANA KONTEN RHAN
 
 - Javascript
+  * ES6
+  * Frameworks JS
 - PHP Frameworks
 - Interview
 - Vlogs
