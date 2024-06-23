@@ -1,0 +1,4 @@
+Rhan Resolusi
+- Konsistenuntuk membuat konten sebanyak 1 kali sehari
+- Membuat Platform untuk pengelolaan video
+- Membuat forum diskusi
