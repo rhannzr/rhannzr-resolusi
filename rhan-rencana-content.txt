@@ -3,7 +3,9 @@ RENCANA KONTEN RHAN
 - Javascript
   * ES6
   * Frameworks JS
-- Struktur Data Dasar
+    > Angular
+    > React
 - PHP Frameworks
+  > Laravel
 - Interview
 - Vlogs
